@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
+import Link from "next/link";
 import Image from "next/image";
 
 export default function Home() {
@@ -13,12 +14,12 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Learn <a href="https://nextjs.org">Next.js!</a>
+          Read <Link href="/posts/first-post">this page!</Link>
         </h1>
         <Image
           src="/images/LG_header.jpg"
-          height={1109/3}
-          width={1478/3}
+          height={1109 / 3}
+          width={1478 / 3}
           alt="Your Name"
         />
         <p className={styles.description}>
