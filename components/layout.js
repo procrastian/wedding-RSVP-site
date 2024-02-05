@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Louise & Greg are engaged!';
-export const siteTitle = 'Next.js Sample Website';
+const name = 'LOUISE and GREG';
+export const siteTitle = 'Louise & Greg Wedding';
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Louise and Greg are getting married!"
         />
         <meta
           property="og:image"
@@ -34,7 +34,7 @@ export default function Layout({ children, home }) {
               height={1109 / 3}
               width={1109 / 3}
               className={utilStyles.borderCircle}
-              alt="Greg & Louise are engaged!"
+              alt="Louise and Greg are engaged!"
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
