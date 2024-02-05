@@ -32,7 +32,7 @@ export default function Layout({ children, home }) {
               priority
               src="/images/profile.jpg"
               height={1109 / 3}
-              width={1478 / 3}
+              width={1109 / 3}
               className={utilStyles.borderCircle}
               alt="Greg & Louise are engaged!"
             />
