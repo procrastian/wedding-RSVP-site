@@ -9,9 +9,16 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>are engaged!</p>
+        <p>Save The Date</p>
         <p>
-          And they are asking you to save the date!
+          Saturday 14th June
+          <br></br>
+          2025
+        </p>
+        <p>
+          Roodlea Barn, Ayr
+          <br></br>
+          KA6 6EP
         </p>
       </section>
     </Layout>
