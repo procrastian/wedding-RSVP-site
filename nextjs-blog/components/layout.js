@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/LG_header.jpg"
+              src="/images/profile.jpg"
               height={1109 / 3}
               width={1478 / 3}
               className={utilStyles.borderCircle}
