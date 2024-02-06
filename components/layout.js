@@ -49,6 +49,7 @@ export default function Layout({ children, home }) {
               width={1109 / 3}
               className={utilStyles.borderCircle}
               alt="Louise and Greg are engaged!"
+              z-index="2"
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
