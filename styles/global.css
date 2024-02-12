@@ -9,7 +9,7 @@ body {
   background-color: #fff9f1;
   background-image: url("../public/images/paper_texture.png");
   height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 @font-face {
@@ -53,25 +53,25 @@ h1 {
 
 #flower_1 {
   top: -10rem;
-  left: -5rem;
+  left: -10rem;
   transform: rotate(0.5turn);
 }
 
 #flower_2 {
   top: -10rem;
-  right: -5rem;
+  right: -10rem;
   transform: rotate(0.7turn);
 }
 
 #flower_3 {
   bottom: -20rem;
-  right: -5rem;
+  right: -10rem;
   transform: rotate(0turn);
 }
 
 #flower_4 {
   bottom: -23rem;
-  left: -5rem;
+  left: -10rem;
   transform: rotate(0.1turn);
 }
 

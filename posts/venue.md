@@ -6,4 +6,9 @@ date: "2024-02-05"
 **Venue Details:**
 [Roodlea Barn](https://roodleabarn.co.uk/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="images/../public/images/venue_1.jpeg" alt="venue interior" width="400" height="400">
+
+![venue interior front](https://roodleabarn.co.uk/wp-content/uploads/2024/01/Roodlea-062-3-640x427.jpg)
+
+![venue interior back](https://roodleabarn.co.uk/wp-content/uploads/2020/12/roodleabarn-32-of-63-1-960x648.jpg)
+
