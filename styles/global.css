@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #0070f3;
+  color: #ae7dfc;
   text-decoration: none;
 }
 
@@ -70,7 +70,7 @@ h1 {
 }
 
 #flower_4 {
-  bottom: -20rem;
+  bottom: -23rem;
   left: -5rem;
   transform: rotate(0.1turn);
 }
