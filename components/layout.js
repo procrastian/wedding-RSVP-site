@@ -26,19 +26,37 @@ export default function Layout({ children, home }) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <Image
-          className="flower"
-          id="flower_1"
-          src="/images/flower_1.png"
-          height={2000 / 4}
-          width={1414 / 4}
-        />
+      //top left
+        className="flower"
+        id="flower_1"
+        src="/images/flower_1.png"
+        height={2000 / 4}
+        width={1414 / 4}
+      />
       <Image
-          className="flower"
-          id="flower_2"
-          src="/images/flower_2.png"
-          height={2000 / 4}
-          width={1414 / 4}
-        />
+      //top right
+        className="flower"
+        id="flower_2"
+        src="/images/flower_2.png"
+        height={2000 / 4}
+        width={1414 / 4}
+      />
+      <Image
+      //bottom right
+        className="flower"
+        id="flower_3"
+        src="/images/flower_1.png"
+        height={2000 / 4}
+        width={1414 / 4}
+      />
+      <Image
+      //bottom left
+        className="flower"
+        id="flower_4"
+        src="/images/flower_2.png"
+        height={2000 / 4}
+        width={1414 / 4}
+      />
       <header className={styles.header}>
         {home ? (
           <>

@@ -1,9 +1,15 @@
 ---
-title: "The Venue"
+title: "Venue"
 date: "2024-02-05"
+tagline: "Where to go on the day"
 ---
 
-**Venue Details:**
-<https://roodleabarn.co.uk/>
+For more details, see the [Roodlea Barn website](https://roodleabarn.co.uk/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For now, we're excited to share some pictures of the beautiful venue we have chosen:
+
+![venue interior front](https://roodleabarn.co.uk/wp-content/uploads/2024/01/Roodlea-062-3-640x427.jpg)
+
+![venue interior back](https://roodleabarn.co.uk/wp-content/uploads/2020/12/roodleabarn-32-of-63-1-960x648.jpg)
+
+![venue exterior back](https://roodleabarn.co.uk/wp-content/uploads/2024/01/3.-GroupsCandids_00383-1024x683.jpg)

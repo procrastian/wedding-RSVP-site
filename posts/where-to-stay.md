@@ -1,6 +1,7 @@
 ---
-title: 'Where to Stay on the day'
+title: 'Accomodation'
 date: '2024-02-06'
+tagline: "Where to stay on the day"
 ---
 
 Here is our recommended list of places to stay if you are travelling from afar:
