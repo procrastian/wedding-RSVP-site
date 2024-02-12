@@ -5,7 +5,7 @@ body {
   font-family: "Courier Prime", monospace;
   line-height: 1.6;
   font-size: 18px;
-  color: #bc7588;
+  
   background-color: #fff9f1;
   background-image: url("../public/images/paper_texture.png");
   height: 100vh;
@@ -22,10 +22,11 @@ body {
 * {
   box-sizing: border-box;
   position: relative;
+  color: #bc7588;
 }
 
 a {
-  color: #ae7dfc;
+  color: #db8ffe;
   text-decoration: none;
 }
 
