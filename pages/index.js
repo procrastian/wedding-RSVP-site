@@ -14,7 +14,7 @@ export async function getStaticProps() {
   };
 }
 export default function Home({ allPostsData }) {
-  const targetDate = "2025-06-14T00:00:00Z";
+  const targetDate = "2025-06-14T12:30:00Z";
   return (
     <Layout home>
       <Head>
