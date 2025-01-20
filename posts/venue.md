@@ -6,6 +6,9 @@ tagline: "Where to go on the day"
 
 For more details, see the [Roodlea Barn website](https://roodleabarn.co.uk/).
 
+There is sufficient parking at the venue if you are planning on driving on the day. If not, it is
+easily reachable by taxi.
+
 For now, we're excited to share some pictures of the beautiful venue we have chosen:
 
 ![venue interior front](https://roodleabarn.co.uk/wp-content/uploads/2024/01/Roodlea-062-3-640x427.jpg)
