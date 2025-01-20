@@ -101,3 +101,7 @@ h1 {
     transform: rotate(0.1turn);
   }
 }
+
+.countdownTimer {
+  justify-self: center;
+}

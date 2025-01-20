@@ -3,6 +3,7 @@ import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
+import CountdownToSpecificDate from "../components/countdown.js";
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -13,6 +14,7 @@ export async function getStaticProps() {
   };
 }
 export default function Home({ allPostsData }) {
+  const targetDate = "2025-06-14T00:00:00Z";
   return (
     <Layout home>
       <Head>
@@ -29,6 +31,9 @@ export default function Home({ allPostsData }) {
         ></link>
       </Head>
       <section className={utilStyles.headingMd}>
+        <div className="countdownTimer">
+          <CountdownToSpecificDate date={targetDate} />
+        </div>
         <div className="saveDate">
           <h2>Save The Date:</h2>
           <p>
