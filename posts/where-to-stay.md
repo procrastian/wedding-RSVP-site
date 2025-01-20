@@ -1,5 +1,5 @@
 ---
-title: 'Accomodation'
+title: 'Accommodation'
 date: '2024-02-06'
 tagline: "Where to stay on the day"
 ---
