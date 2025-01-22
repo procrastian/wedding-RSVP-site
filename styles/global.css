@@ -7,7 +7,7 @@ body {
   font-size: 18px;
   display: flex;
   flex-direction: column;
-  
+
   background-color: #fff9f1;
   background-image: url("../public/images/paper_texture.png");
   height: 100vh;
@@ -19,6 +19,11 @@ body {
   src: url("../public/asset/Atteron.ttf");
   font-weight: 400;
   font-style: normal;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+  overflow: auto;
 }
 
 * {
@@ -46,12 +51,14 @@ h1 {
   font-family: "Atteron";
 }
 
-.saveDate, .countdownTimer, .RSVP {
+.saveDate,
+.countdownTimer,
+.RSVP {
   text-align: center;
 }
 
 a.rsvpLink {
-  font-size:xx-large;
+  font-size: xx-large;
 }
 
 .flower {
@@ -106,5 +113,23 @@ a.rsvpLink {
     bottom: -23rem;
     left: -10rem;
     transform: rotate(0.23turn);
+  }
+}
+
+@media (min-width: 950px) {
+  body {
+    
+    background-image: url("../public/images/paper_texture.png");
+    background-size: cover;
+    height: 100vh;
+    width: 950px;
+    overflow-x: hidden;
+    align-self: center;
+    border-right: #bc7588 solid 5px;
+    border-left: #bc7588 solid 5px;
+  }
+  html {
+    background-color: #bc758848;
+    background-image: none;
   }
 }
