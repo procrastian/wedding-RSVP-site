@@ -44,7 +44,7 @@ h1 {
   font-family: "Atteron";
 }
 
-.saveDate {
+.saveDate, .countdownTimer {
   text-align: center;
 }
 
@@ -100,8 +100,4 @@ h1 {
     left: -10rem;
     transform: rotate(0.1turn);
   }
-}
-
-.countdownTimer {
-  justify-self: center;
 }
