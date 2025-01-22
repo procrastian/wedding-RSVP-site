@@ -14,7 +14,7 @@ Lindsay Gardiner \
 Rebekah Allardyce
 
 **Best Man:**\
-Ian Gibb
+Ian Gibb \
 Daniel McCulloch \
 Fraser Rankin
 
