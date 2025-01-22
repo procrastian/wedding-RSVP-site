@@ -44,8 +44,12 @@ h1 {
   font-family: "Atteron";
 }
 
-.saveDate, .countdownTimer {
+.saveDate, .countdownTimer, .RSVP {
   text-align: center;
+}
+
+a.rsvpLink {
+  font-size:xx-large;
 }
 
 .flower {
