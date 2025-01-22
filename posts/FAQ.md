@@ -27,7 +27,7 @@ home so you can celebrate with us.
 **Are there places to stay nearby?**\
 Please visit our accommodation page for more information.
 
-**Gifting**\
+**Can I bring a gift?**\
 Please do not feel obliged to buy us a gift, all that we are expecting is you to celebrate with us on
 our wedding day. If you would like to give something, we have complied a small [Amazon Gift Registry](https://www.amazon.co.uk/wedding/registry/1GP5C8HDOXYVD), or alternatively, a contribution towards our honeymoon would be greatly appreciated.
 
