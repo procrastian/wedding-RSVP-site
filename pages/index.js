@@ -34,6 +34,7 @@ export default function Home({ allPostsData }) {
         <div className="countdownTimer">
           <CountdownToSpecificDate date={targetDate} />
         </div>
+        <div className="RSVP"><a className="rsvpLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe0sCQVxmO2HS-htiRvK8uVsUIifSD-0nAw_N1wZ6tf12V6LQ/viewform?usp=dialog" target="_blank">RSVP</a></div>
         <div className="saveDate">
           <h2>Save The Date:</h2>
           <p>
