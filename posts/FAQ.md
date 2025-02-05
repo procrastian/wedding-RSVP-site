@@ -9,7 +9,7 @@ If your questions have not been addressed, then please feel free to WhatsApp eit
 &nbsp;
 
 **When is the RSVP deadline?**\
-Please respond to your invitation by Monday 31st March 2025.  
+Please respond to your invitation by Sunday 6th April 2025.  
 &nbsp;
 
 **Is there a dress code?**\
@@ -31,7 +31,7 @@ home so you can celebrate with us.
 &nbsp;
 
 **Are there places to stay nearby?**\
-Please visit our accommodation page for more information.  
+Please visit our [accommodation page](where-to-stay) for more information.  
 &nbsp;
 
 **Can I bring a gift?**\
