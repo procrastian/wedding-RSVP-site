@@ -53,11 +53,11 @@ h1 {
 
 .saveDate,
 .countdownTimer,
-.RSVP {
+.RSVP, .party {
   text-align: center;
 }
 
-a.rsvpLink {
+a.rsvpLink, a.partyLink {
   font-size: xx-large;
 }
 
