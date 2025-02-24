@@ -50,3 +50,16 @@
 .lightText {
   color: #666;
 }
+
+/* ImageGallery.module.css */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.gallery-item {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}

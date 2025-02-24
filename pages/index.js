@@ -13,6 +13,7 @@ export async function getStaticProps() {
     },
   };
 }
+
 export default function Home({ allPostsData }) {
   const targetDate = "2025-06-14T12:30:00Z";
   return (
@@ -34,7 +35,15 @@ export default function Home({ allPostsData }) {
         <div className="countdownTimer">
           <CountdownToSpecificDate date={targetDate} />
         </div>
-        <div className="RSVP"><a className="rsvpLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe0sCQVxmO2HS-htiRvK8uVsUIifSD-0nAw_N1wZ6tf12V6LQ/viewform?usp=dialog" target="_blank">RSVP here</a></div>
+        <div className="RSVP">
+          <a
+            className="rsvpLink"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe0sCQVxmO2HS-htiRvK8uVsUIifSD-0nAw_N1wZ6tf12V6LQ/viewform?usp=dialog"
+            target="_blank"
+          >
+            RSVP here
+          </a>
+        </div>
         <div className="saveDate">
           <h2>Save The Date:</h2>
           <p>
@@ -47,6 +56,9 @@ export default function Home({ allPostsData }) {
             <br></br>
             KA6 6EP
           </p>
+        </div>
+        <div className="party">
+          <Link className="partyLink" href="party">Meet the Wedding Party</Link>
         </div>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
